@@ -40,6 +40,7 @@ sublists = {
 	 ("Bol & Smik", "playlist/PLTVteViFsSU9BMHzwWXj16UHrWcDCYdc9", "https://yt3.ggpht.com/-wf91Mku5FfE/AAAAAAAAAAI/AAAAAAAAAAA/J3aaUlqQL1k/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"),
 	 ("Bumba", "playlist/PL9S3PRwyiLReg4c8bmHPqc6IhgkrFmeh9", "https://yt3.ggpht.com/-m3GkQATOCWE/AAAAAAAAAAI/AAAAAAAAAAA/ZLxbNBoBGZ0/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"),
      ("Buurman en Buurman", "playlist/PLDd-9uTzQrpTyLy0jXAWKkNn_TajN61en", "https://i.ytimg.com/vi/JyUSVuvM7qE/hqdefault.jpg"),
+	 ("De Tofu's", "playlist/PLDyfEDDq7obVDwqQTJlwpNefhfb54eajN", "http://www.mediasmarties.nl/media/uploads/producties/d/de-/De%20Tofu's.jpg"),
      ("De wereld van K3", "playlist/PLw_5zTBMF4hy3DgTeSMdUMuEUuTJg7LKS", "https://i.ytimg.com/vi/m0gbMyzckrk/maxresdefault.jpg"),
 	 ("De Wielen van de Bus", "channel/UC9REV5dflUeJsC3ij87zSbQ/playlists", "https://yt3.ggpht.com/-Zee55tOc0l4/AAAAAAAAAAI/AAAAAAAAAAA/ZBxw1bSi12Q/s288-c-k-no-mo-rj-c0xffffff/photo.jpg"),
 	 ("Efteling Sprookjesboom Sprookjes", "playlist/PLGJ8-PwGgVmQ0qbQI2rNenX2fa5dBTuF4", "http://i.imgur.com/JVMcRTa.jpg"),
