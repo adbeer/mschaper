@@ -24,8 +24,6 @@ channellist=[
     ("[COLOR magenta]Kinderliedjes NL >>[/COLOR]", "Kinderliedjes NL", ART+'liedjes.jpg'),    
 	("[COLOR green]Kinder Karaoke kanalen >>[/COLOR] ", "Kinder Karaoke kanalen", ART+'karaoke.jpg'),
     ("[COLOR orange]Youtube NL Kanalen >>[/COLOR]", "Youtube NL Kanalen", ART+'YouTube-kanaal.png'),
-	("[COLOR gold]Kinderfilm's NL >>[/COLOR]", "Kinderfilm's NL", ART+'kinderfilm.png'),
-	
     ]
 
 	
@@ -118,13 +116,7 @@ sublists = {
 	 ],
 	 
     }
-	
-'Kinderfilm's NL':[
-     ("Telekids Film | Het Geheim van de Zonnesteen (1996)", "watch/cF-5T9pC_9Q", "https://yt3.ggpht.com/-9M6YkWbM73c/AAAAAAAAAAI/AAAAAAAAAAA/Pw499qoRohM/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
 
-	 ],
-	 
-    }	
 
 
 # Entry point
