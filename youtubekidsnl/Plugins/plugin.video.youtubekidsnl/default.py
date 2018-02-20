@@ -119,7 +119,7 @@ sublists = {
     }
 	
 'Kinderfilm's NL':[
-     ("Kinderliedjes Nederlands", "playlist/PLCm89dwWipl32ORkcPIuznNWarBJEnLxF", "http://www.finesound.nl/verkoop/images/Web_kinder_karaoke_dvd_shop_winkel_Fine_sound.jpg",),
+     ("Telekids Film | Het Geheim van de Zonnesteen (1996)", "watch/cF-5T9pC_9Q", "https://yt3.ggpht.com/-9M6YkWbM73c/AAAAAAAAAAI/AAAAAAAAAAA/Pw499qoRohM/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
 
 	 ],
 	 
