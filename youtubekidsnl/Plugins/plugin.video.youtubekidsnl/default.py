@@ -21,10 +21,11 @@ ART = xbmc.translatePath(os.path.join('special://home/addons/' + addonID + '/res
 
 channellist=[
     ("[COLOR blue]Kinderfilmpjes NL >>[/COLOR]", "Kinderfilmpjes NL", ART+'filmpjes.jpg'),
-	("[COLOR gold] >>[/COLOR]", "Kinderfilm's NL", ART+'Kinderfilm.png'),
     ("[COLOR magenta]Kinderliedjes NL >>[/COLOR]", "Kinderliedjes NL", ART+'liedjes.jpg'),    
 	("[COLOR green]Kinder Karaoke kanalen >>[/COLOR] ", "Kinder Karaoke kanalen", ART+'karaoke.jpg'),
     ("[COLOR orange]Youtube NL Kanalen >>[/COLOR]", "Youtube NL Kanalen", ART+'YouTube-kanaal.png'),
+	("[COLOR gold]Kinderfilm's NL >>[/COLOR]", "Kinderfilm's NL", ART+'kinderfilm.png'),
+	
     ]
 
 	
@@ -67,15 +68,7 @@ sublists = {
 	 ("Uki", "playlist/PL8cP9XOFMdlj4ZHL7HKUcmmv2OKPzxHLh", "https://yt3.ggpht.com/-wF_Yz1KSc7w/AAAAAAAAAAI/AAAAAAAAAAA/HGz2Xuebet4/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
 	 ("WILDBRAIN NEDERLANDS PLAYLIST | CARTOONS", "playlist/PLIpTQUiq8YvrehBUAsr5-Ou-GchPpXw3j", "https://i.ytimg.com/vi/oML9C2TrKs4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjaHMHrZrBvoz_Wb4vwoTCS7c6rw",),
      ],
-
-'Kinderfilm's NL':[
-     ("Telekids Film | Het Geheim van de Zonnesteen (1996)", "watch/cF-5T9pC_9Q", "https://yt3.ggpht.com/-9M6YkWbM73c/AAAAAAAAAAI/AAAAAAAAAAA/Pw499qoRohM/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
-	 
-	 ],	 
-	 
-	 
-	 
-	 
+ 
 'Kinderliedjes NL':[
      ("Bibaboerderij Liedjes", "playlist/PL_ns56fUdWZK4KRDVn_QsdTfq23xx3Iyl", "https://yt3.ggpht.com/-ZAHtA-HErRo/AAAAAAAAAAI/AAAAAAAAAAA/hjU0RK2FSRo/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
      ("De leukste liedjes van K3", "playlist/PLw_5zTBMF4hw8fCCDmzyfMVcKaFh9IN8F", "https://www.muzieklijstjes.com/wp-content/uploads/2015/11/k3.jpg",),
@@ -124,6 +117,13 @@ sublists = {
 	 ],
 	 
     }
+	
+'Kinderfilm's NL':[
+     ("Kinderliedjes Nederlands", "playlist/PLCm89dwWipl32ORkcPIuznNWarBJEnLxF", "http://www.finesound.nl/verkoop/images/Web_kinder_karaoke_dvd_shop_winkel_Fine_sound.jpg",),
+
+	 ],
+	 
+    }	
 
 
 # Entry point
