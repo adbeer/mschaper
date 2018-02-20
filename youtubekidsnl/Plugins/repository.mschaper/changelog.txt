@@ -1,7 +1,0 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-  <body>
-  icon en fanart aangepast
-  nieuwe repo url
-  </body>
-</html>
