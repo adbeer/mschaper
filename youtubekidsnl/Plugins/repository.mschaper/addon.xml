@@ -1,4 +1,4 @@
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.mschaper" name="MSchaper" version="1.2" provider-name="Mschaper">
   <extension point="xbmc.addon.repository" name="Mijn Repository">
         <info compressed="false">https://raw.githubusercontent.com/schaperm/mschaper/master/youtubekidsnl/Plugins/addons.xml</info>
@@ -11,24 +11,3 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-<addon id="plugin.video.youtubekidsnl"
-	name="Youtube Kids NL"
-	version="1.7"
-	provider-name="MSCHAPER">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.addon.common" version="2.0.0"/>
-    <import addon="plugin.video.youtube" version="5.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="nl">Youtube Kids NL</summary>
-    <description lang="nl">De beste en leukste YouTube kanalen voor kinderen.</description>
-    <platform>all</platform>
-    <website>kodi.m-schaper.nl</website>
-  </extension>
-</addon>
-</addons>
