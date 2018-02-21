@@ -66,6 +66,7 @@ sublists = {
 	 ("TwiniPop", "playlist/PLPL7CkhLx1AuWAOCaQ06rjFCUQ6a4kwMS", "https://yt3.ggpht.com/-z8vwsuHexhc/AAAAAAAAAAI/AAAAAAAAAAA/2OxNo8dgf64/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
 	 ("Uki", "playlist/PL8cP9XOFMdlj4ZHL7HKUcmmv2OKPzxHLh", "https://yt3.ggpht.com/-wF_Yz1KSc7w/AAAAAAAAAAI/AAAAAAAAAAA/HGz2Xuebet4/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
 	 ("WILDBRAIN NEDERLANDS PLAYLIST | CARTOONS", "playlist/PLIpTQUiq8YvrehBUAsr5-Ou-GchPpXw3j", "https://i.ytimg.com/vi/oML9C2TrKs4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBjaHMHrZrBvoz_Wb4vwoTCS7c6rw",),
+	 ("Wizzy & Woppy", "playlist/PLo_taOuyFy4y4m5jXwaopOH4bOhWAOkfn", "https://yt3.ggpht.com/-eNh9uhxgkac/AAAAAAAAAAI/AAAAAAAAAAA/SgZAyHBzm60/s88-c-k-no-mo-rj-c0xffffff/photo.jpg",),
      ],
  
 'Kinderliedjes NL':[
@@ -73,6 +74,7 @@ sublists = {
      ("De leukste liedjes van K3", "playlist/PLw_5zTBMF4hw8fCCDmzyfMVcKaFh9IN8F", "https://www.muzieklijstjes.com/wp-content/uploads/2015/11/k3.jpg",),
      ("Efteling Jokie & Jet", "playlist/GZnaLllN_Us&list=PLxGx3wMkEOueEcIsbBf5pHmqHr8beTi73", "http://i.imgur.com/SGVsy1l.jpg"),
 	 ("Efteling Sprookjesboom", "playlist/JmNmakIcOTk&list=PLGJ8-PwGgVmQv9oEhNoM2M-_Kj6HfmM7M", "http://i.imgur.com/JVMcRTa.jpg"),
+	 ("Halloween", "playlist/PLzDZvvekbRQ0GWSfh8ngtguKv1J8EqVfx", "https://yt3.ggpht.com/-tuJGKbck4Zw/AAAAAAAAAAI/AAAAAAAAAAA/jGgvZSH8hQ4/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"),
 	 ("Juf Roos", "playlist/PLpb0mdVsIliP-fllkQW6j3RIv8C8xWKrn", "http://i.imgur.com/fCyPI09.jpg"),
 	 ("Kabouter Plop", "playlist/PLe6pJa9t9PIEi7o0uf7cUhVNY9MK2nrNi", "http://i.imgur.com/bTO5mR4.jpg"),
 	 ("Kerstliedjes", "playlist/PL0Ce81PoTVxht9UA1VGOhvF4V38niMFjv", "https://i.ytimg.com/vi/GXAgl-GCoO4/maxresdefault.jpg",),
