@@ -14,8 +14,8 @@
 
 <addon id="plugin.video.youtubekidsnl"
 	name="Youtube Kids NL"
-	version="1.9"
-	provider-name="MSCHAPER">
+	version="2.0"
+	provider-name="mschaper">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
