@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.mschaper" name="MSchaper" version="1.2" provider-name="Mschaper">
+<addon id="repository.mschaper" name="MSchaper" version="1.2.1" provider-name="Mschaper">
   <extension point="xbmc.addon.repository" name="Mijn Repository">
         <info compressed="false">https://raw.githubusercontent.com/schaperm/mschaper/master/youtubekidsnl/Plugins/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/schaperm/mschaper/master/youtubekidsnl/Plugins/addons.xml.md5</checksum>
