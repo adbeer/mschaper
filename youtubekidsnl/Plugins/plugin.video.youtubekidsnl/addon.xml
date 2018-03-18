@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.youtubekidsnl" name="youtubekidsnl" version="2.0" provider-name="mschaper">
-    <requires>
-        <import addon="xbmc.python" version="2.19.0" />
-        <import addon="script.module.universalscrapers" version="1.0.0" />
-        <import addon="script.module.python.koding.aio" version="0.9.6.6" />
-        <import addon="script.module.beautifulsoup" version="3.2.1" />
-        <import addon="script.module.requests" version="2.9.1" />
-        <import addon="script.module.addon.common" version="2.0.0" />
-        <import addon="script.module.xmltodict" version="0.9.0" />
-        <!--<import addon="script.module.web-pdb" version="1.0"/>-->
-        <import addon="script.module.resolveurl" />
-		<import addon="plugin.video.youtube" version="6.0.0~beta1" />
-    </requires>
-    <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.service" library="service.py" start="[login|startup]" />
-    <extension point="xbmc.addon.metadata">
-      <summary lang="en">Youtube for kids</summary>
-      <description lang="en">Films en series van diverse bronnen. Thank you @midraal for the template. @neufke bedankt voor het artwork.</description>
-      <disclaimer lang="en">The author of this addon do not host any of the content which is found and have no affiliation with any of the content providers. This addon simply searches websites for content. Use at your own risk!</disclaimer>
-      <platform>all</platform>
-        <website>kodi.m-schaper.nl</website>
-        <video_guide></video_guide>
-    </extension>
+<addon id="repository.mschaper" name="MSchaper" version="1.2.3" provider-name="Mschaper">
+  <extension point="xbmc.addon.repository" name="Mijn Repository">
+        <dir>
+           <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+           <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+           <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir> 
+        <dir>	
+          <info compressed="false">https://raw.githubusercontent.com/schaperm/mschaper/master/youtubekidsnl/Plugins/addons.xml</info>
+		  <checksum>https://raw.githubusercontent.com/schaperm/mschaper/master/youtubekidsnl/Plugins/addons.xml.md5</checksum>
+		  <datadir zip="true">https://raw.githubusercontent.com/schaperm/mschaper/master/youtubekidsnl/Plugins/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+		</dir>		
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">YouTube Addons van Mschaper</summary>
+    <description lang="en">YouTube Addons van Mschaper</description>
+    <platform>all</platform>
+  </extension>
 </addon>
